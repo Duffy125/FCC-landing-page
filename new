@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<div id="page-wrapper">
+  <header id="header">
+    <div class="logo">
+      <img
+           class="header-img"
+        id="header-img"
+        src="https://www.nicepng.com/png/detail/89-897917_bass-guitar-bass-guitar-logo-png.png"
+        alt="original bass guitar logo"
+      />
+    </div>
+
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#features">Features</a></li>
+        <li><a class="nav-link" href="#how-lessons">Lessons</a></li>
+        <li><a class="nav-link" href="#pricing">Pricing</a></li>
+      </ul>
+    </nav>
+  </header>
+</div>
+<div class="container"></div>
+
+<section id="bass">
+  <h2>Start your lessons today</h2>
+  <form id="form" action="lesson-email">
+    <input name="email" id="email" type="emaill" placeholder="Enter your email address" required>
+    <input id="submit" type="submit" value="Get Started" class="btn"/>
+  </form>
+</section>
+<div class="container">
+  <section id="features">
+    <div id="grid">
+      <div class="icon">
+          <img
+           class="icon"
+        id="icon"
+     src="https://www.logolynx.com/images/logolynx/4c/4c452fb75736129bd9cb84e32c083a09.jpeg"
+        alt="original bass guitar logo"
+      />
